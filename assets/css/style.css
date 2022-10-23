@@ -1,12 +1,16 @@
+/* This CSS file is is link to the index html file for the Horiseon webpage. 
+It provide all the styling used on that webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* This code sets the page background color */
 body {
     background-color: #d9dcd6;
 }
+
 
 .header {
     padding: 20px;
@@ -24,6 +28,7 @@ body {
     color: #d9dcd6;
 }
 
+/* Navigation or menu css */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,15 +46,18 @@ body {
     margin-left: 25px;
 }
 
+/* This changes the color of all links to white */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
+/* css code for the paragraphs in the webpage*/
 p {
     font-size: 16px;
 }
 
+/* css for the main image below the navigation or header */
 .hero {
     height: 800px;
     width: 100%;
@@ -69,12 +77,14 @@ p {
     margin-left: 25px;
 }
 
+/* css for container of the main content of webpage */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* side bar css code */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -100,12 +110,15 @@ p {
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img {
+.benefit-lead img,
+.benefit-brand img,
+.benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
+/* This css styles the main content in the body of the webpage */
 .search-engine-optimization,
 .online-reputation-management,
 .social-media-marketing {
@@ -130,6 +143,7 @@ p {
     font-size: 36px;
 }
 
+/* footer css code */
 .footer {
     padding: 30px;
     clear: both;
