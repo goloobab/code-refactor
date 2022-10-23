@@ -11,4 +11,5 @@ The task is to refactor the codebase to follow accessibility standards using HTM
 * Coming up with the accessible "alt" attributes for images
 
 
+
 ## Things I learned 
