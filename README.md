@@ -24,7 +24,7 @@ The task is to refactor the codebase to follow accessibility standards using HTM
 ![Screenshot 2022-10-24 061248](https://user-images.githubusercontent.com/26630637/197452976-6aeaf284-43d6-4c1d-86ae-e83e7f5dabe6.png)
 
 ## Links
-Deployed project: https://github.com/goloobab/horiseon-webpage
+Deployed project: https://goloobab.github.io/horiseon-webpage/
 
 ## Contacts
 
