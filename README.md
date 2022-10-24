@@ -20,6 +20,11 @@ The task is to refactor the codebase to follow accessibility standards using HTM
 * Learned to add, commit, pull and push code to the git remote repo.
 * The importance of using semantic elements in code 
 
+## Screen Shots
+![Screenshot 2022-10-24 060329](https://user-images.githubusercontent.com/26630637/197452948-b81a63b1-8a38-4b98-9140-b0370845af41.png)
+![Screenshot 2022-10-24 061248](https://user-images.githubusercontent.com/26630637/197452976-6aeaf284-43d6-4c1d-86ae-e83e7f5dabe6.png)
+
+
 ## Contacts
 
 If you have any questions, please contact me at: 
