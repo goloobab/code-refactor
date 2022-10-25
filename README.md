@@ -2,7 +2,7 @@
 
 ## Description 
 
-This is static web site. This project was developed for Horiseon Social Solution Services a marketing agency to provide information about their services to the site visitors or customers.
+This static webpage project was developed for Horiseon Social Solution Services a marketing agency to provide information about their services to the site visitors or customers.
 The task was to refactor the codebase to follow accessibility standards using HTML and CSS technologies and also optimize it for search engines.
 
 ## Challenges
