@@ -3,7 +3,7 @@
 ## Description 
 
 This is static web site. This project was developed for Horiseon Social Solution Services a marketing agency to provide information about their services to the site visitors or customers.
-The task is to refactor the codebase to follow accessibility standards using HTML and CSS technologies and also optimize it for search engines.
+The task was to refactor the codebase to follow accessibility standards using HTML and CSS technologies and also optimize it for search engines.
 
 ## Challenges
 
@@ -14,7 +14,7 @@ The task is to refactor the codebase to follow accessibility standards using HTM
 ## Things I learned 
 * Learned to conslidated CSS code.
 * How to link the navigation menu content to sections. 
-* How imported the 'alt' attribute is in accessibility standards.
+* How important the 'alt' attribute is in accessibility standards.
 * Learned to add, commit, pull and push code to the git remote repo.
 * The importance of using semantic elements in code.
 * Using the universal CSS selector. 
