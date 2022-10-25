@@ -7,9 +7,9 @@ The task was to refactor the codebase to follow accessibility standards using HT
 
 ## Challenges
 
-* Determinig the right Semantics for the elements.
+* Determining the right Semantics for the elements.
 * Coming up with the accessible "alt" attributes for images.
-* git commits not showing up automatically atimes
+* git commits not showing up automatically atimes in the remote repo.
 
 ## Things I learned 
 * Learned to conslidated CSS code.
@@ -24,6 +24,9 @@ The task was to refactor the codebase to follow accessibility standards using HT
 
 ## Links
 Deployed project: https://goloobab.github.io/horiseon-webpage/
+
+## License 
+Please refer to the LICENSE enclosed in the repository
 
 ## Contacts
 
